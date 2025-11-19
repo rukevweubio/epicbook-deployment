@@ -1,0 +1,10 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"features": {
+		"ghcr.io/robbert229/devcontainer-features/opentofu:1": {},
+		"ghcr.io/schlich/devcontainer-features/node-exporter:1": {},
+		"ghcr.io/devcontainers-extra/features/alertmanager:1": {},
+		"ghcr.io/devcontainers-extra/features/mysqld-exporter:1": {},
+		"ghcr.io/devcontainers-extra/features/pushgateway:1": {}
+	}
+} 
